@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CRM with PHP<br>🌱 I’m currently learning Laravel, Next, React<br>💬 Ask me about anything<br>⚡ Fun fact: I love to play video games email me your steam friend link
+🔭 I’m currently working on CRM with PHP<br>🌱 I’m currently learning Laravel, Next, React<br>💬 Ask me about anything<br>⚡ Fun fact: I love to play video games email me your steam friend link (blackburnkoper@gmail.com)
 
 
 ## 🌐 Socials:
